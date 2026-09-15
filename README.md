@@ -2,7 +2,7 @@
 
 **Data Scientist | Bioengineer** · Bogotá, Colombia 🇨🇴
 
-📧 jnataly.tinoco@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/)
+📧 jnataly.tinoco@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/nataly-tinoco-685338174/)
 
 ---
 
