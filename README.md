@@ -75,7 +75,7 @@ Emotion analysis from webcam, built during my early industry roles.
 - **Early delinquency model** and **socioeconomic score**: early risk prediction and credit access for underbanked populations.
 - **NPS / dissatisfaction models**: predictive dissatisfaction index with a full SHAP pipeline.
 
-*(Private code under NDA — available upon request.)*
+*(Proprietary code — confidential under NDA, not publicly available.)*
 
 **Junior Data Scientist — Teleperformance** *(2021 – 2022)*
 NLP, call-prioritization models, and a multimodal sentiment-analysis system.
